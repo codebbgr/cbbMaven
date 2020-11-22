@@ -22,6 +22,7 @@
     <modules>
         <module>maven-xml</module>
         <module>maven-model</module>
+        <module>maven-artifact</module>
     </modules>
 
     <dependencies>
