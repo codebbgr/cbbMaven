@@ -23,6 +23,7 @@
         <module>maven-xml</module>
         <module>maven-model</module>
         <module>maven-artifact</module>
+        <module>maven-builder-support</module>
     </modules>
 
     <dependencies>
