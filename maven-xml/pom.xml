@@ -26,6 +26,7 @@ under the License.
     <packaging>jar</packaging>
 
     <artifactId>maven-xml</artifactId>
+    <name>Maven XML</name>
 
     <parent>
         <groupId>gr.codebb.maven</groupId>
