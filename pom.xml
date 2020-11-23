@@ -26,6 +26,7 @@
         <module>maven-builder-support</module>
         <module>maven-model-builder</module>
         <module>maven-repository-metadata</module>
+        <module>maven-resolver-provider</module>
     </modules>
 
     <dependencies>

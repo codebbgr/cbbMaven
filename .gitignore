@@ -27,3 +27,4 @@ hs_err_pid*
 /maven-builder-support/target/
 /maven-model-builder/target/
 /maven-repository-metadata/target/
+/maven-resolver-provider/target/
