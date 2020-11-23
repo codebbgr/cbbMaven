@@ -25,6 +25,7 @@
         <module>maven-artifact</module>
         <module>maven-builder-support</module>
         <module>maven-model-builder</module>
+        <module>maven-repository-metadata</module>
     </modules>
 
     <dependencies>
